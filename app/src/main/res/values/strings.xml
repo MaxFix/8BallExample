@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">8BallExample</string>
+    <string name="buttonText">Нажми</string>
+    <string name="image8BallText">8Ball</string>
+    <string name="background_image">background</string>
+    <string name="textview_text">Shake me!</string>
+</resources>
