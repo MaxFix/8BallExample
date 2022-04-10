@@ -4,4 +4,5 @@
     <string name="image8BallText">8Ball</string>
     <string name="background_image">background</string>
     <string name="textview_text">Shake me!</string>
+    <string name="background_for_app">background for app</string>
 </resources>
